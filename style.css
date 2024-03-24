@@ -1,0 +1,7 @@
+12345678
+p { 
+  font-size: 15px ;    font-family: 'Times New Roman', Times, serif;
+}
+table, th, td {   
+  border: 1px  black;     border-collapse: collapse; 
+}
